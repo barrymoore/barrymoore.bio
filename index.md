@@ -93,7 +93,7 @@ I am always curious about what’s next — in genetics, genomics and technology
 * Moore et al., *Genet Med Open*, 2023: RNASeq Resolves NEB Variant in Nemaline Myopathy
 * Jenkins et al., *NPJ Genom Med*, 2025: Utah NeoSeq Program in NICU Genomic Diagnostics
 
-*Full list of 76 publications available on request or Google Scholar - [https://bit.ly/3IKbfLV](https://bit.ly/3IKbfLV)*</br>
+*Full list of 76 publications available on request or Google Scholar - [https://bit.ly/3IKbfLV](https://bit.ly/3IKbfLV)* <br>
 *Citation metrics (Google Scholar, July 2025): h-index = 31, i10-index = 41, total citations = 6,522*
 
 ---
