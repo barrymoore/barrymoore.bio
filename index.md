@@ -1,6 +1,6 @@
 ---
 title: "Barry Moore, M.S."
-layout: home
+layout: default
 ---
 
 # Barry Moore, M.S.
