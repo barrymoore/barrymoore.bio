@@ -67,7 +67,7 @@ I am always curious about what’s next — in genetics, genomics and technology
 
 ---
 
-## Selected Projects:**
+## Selected Projects
 - **NeoSeq** – Rapid genome sequencing for NICU diagnostics at University of Utah Health
 - **GEM AI** – Development and clinical integration of AI-assisted genome interpretation at Fabric Genomics
 - **GeneKids** – Rare disease diagnostics initiative at Intermountain Health and University of Utah
@@ -76,7 +76,7 @@ I am always curious about what’s next — in genetics, genomics and technology
 
 ---
 
-## SELECTED PUBLICATIONS
+## Selected Publications
 * Reese et al., *Genome Biology*, 2010: Standard Variation File Format
 * Yandell et al., *PLoS Comp Biol*, 2008: Disease Alleles in Paralogous Proteins
 * Eilbeck et al., *BMC Bioinformatics*, 2009: Quantitative Measures for Genome Annotation
