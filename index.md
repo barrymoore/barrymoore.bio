@@ -93,7 +93,7 @@ I am always curious about what’s next — in genetics, genomics and technology
 
 ---
 
-## TOOLS & TECHNOLOGIES
+## Tools & Technologies
 * **Languages:** Perl, Python, JavaScript, SQL
 * **Linux Admin & Power Tools:** Bash, screen/tmux, git, emacs, cron/at, find, parallel/xargs, sed/awk/CLI Perl, VisiData, jq, sqlite3, rclone/rsync
 * **Workflow Systems:** Nextflow, Snakemake, custom scripting
@@ -101,7 +101,7 @@ I am always curious about what’s next — in genetics, genomics and technology
 * **Bioinformatics Tools:** GATK, Sentieon, Dragen, samtools, bcftools, bedtools, htslib, vcfanno, GEM, VAAST, VVP, Phevor
 * **Data Analysis/Presentation:** iPython/Jupyter, numpy, Pandas, scipy, matplotlib/Seaborn/Plotly, custom dashboards & worksheets using JavaScript, DataTables, HTML/CSS, XlsxWriter, Markdown
 
-PATENTS
+## Patents
 
 US Patent Application No. US20230326547A1Systems and Methods for Prioritizing Genome Variants. Filed October 2023. Co-inventor. [https://patents.google.com/patent/US20230326547A1](https://patents.google.com/patent/US20230326547A1)
 
