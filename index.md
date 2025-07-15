@@ -7,7 +7,7 @@ layout: home
 
 **Senior Scientist, Precision Genomics**  
 *Genome Scientist | Bioinformatics Builder | Big Data Freak*</br>
-[LinkedIn](https://www.linkedin.com/in/barrymoore66/) | [GitHub](https://github.com/barrymoore) | <a href="mailto:barry&#64;barrymoore.bio">barry&#64;barrymoore.bio</a>
+[LinkedIn](https://www.linkedin.com/in/barrymoore66/) | [GitHub](https://github.com/barrymoore) | <a href="mailto:barry.utah&#64;gmail.com">barry.utah&#64;gmail.com</a>
 
 ---
 
