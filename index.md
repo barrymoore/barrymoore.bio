@@ -6,7 +6,7 @@ layout: home
 # Barry Moore, M.S.
 
 **Senior Scientist, Precision Genomics**  
-*Genome Scientist | Bioinformatics Builder | Big Data Freak*
+*Genome Scientist | Bioinformatics Builder | Big Data Freak*</br>
 [LinkedIn](https://www.linkedin.com/in/barrymoore66/) | [GitHub](https://github.com/barrymoore) | Email: <a href="mailto:barry&#64;barrymoore.bio">barry&#64;barrymoore.bio</a>
 
 ---
