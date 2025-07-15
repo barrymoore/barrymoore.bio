@@ -12,6 +12,10 @@ layout: home
 ---
 
 ## About Me
+
+<img src="BarryLinkedIn.jpg" alt="Barry Moore headshot" width="150" style="float: right; margin: 0 0 1em 1em; border-radius: 8px;" />
+
+
 I’m a genome scientist, bioinformatics builder and big data evangelist with over 25 years of experience at the intersection of biology, computation, and clinical translation. My career began at the bench, decoding the complexities of translational recoding, and has evolved into a deep engagement with genome-scale data and rare disease diagnostics.
 
 At the University of Utah, I’ve helped lead some of the institution’s most impactful genomic projects — from working on the development team for software tools like MAKER, VAAST, and VVP to shaping diagnostic workflows for programs like Heritage 1K, NeoSeq and GeneKids. My work spans clinical genome diagnostics and NLP-base phenotype profiling, genome annotation and comparative genomics, ontology design, and consortia-scale genomic and data science workflows.
