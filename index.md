@@ -107,10 +107,10 @@ US Patent Application No. US20230326547A1Systems and Methods for Prioritizing Ge
 
 ---
 
-## 🔗 Contact & Links
-- 💼 [LinkedIn](https://www.linkedin.com/in/barrymoore66/)
-- 💻 [GitHub](https://github.com/barrymoore)
-- 📧 Email: <a href="mailto:barry&#64;barrymoore.bio">barry&#64;barrymoore.bio</a>
+## Contact & Links
+- [LinkedIn](https://www.linkedin.com/in/barrymoore66/)
+- [GitHub](https://github.com/barrymoore)
+- Email: <a href="mailto:barry&#64;barrymoore.bio">barry&#64;barrymoore.bio</a>
 
 
 ---
