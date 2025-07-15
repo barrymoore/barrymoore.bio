@@ -112,5 +112,7 @@ US Patent Application No. US20230326547A1Systems and Methods for Prioritizing Ge
 
 [Download a summary resume](Barry_Moore_Resume_2025.pdf).  Full length CV available on request.
 
+---
+
 **barrymoore.bio** — All views are my own. Thanks for visiting.
 
