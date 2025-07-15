@@ -2,6 +2,6 @@ title: "Barry Moore, M.S."
 description: "Senior Scientist in Genomics and Bioinformatics"
 theme: minima
 baseurl: ""
-# url: "https://barrymoore.bio"
+url: "https://barrymoore.bio"
 plugins:
   - jekyll-sitemap
