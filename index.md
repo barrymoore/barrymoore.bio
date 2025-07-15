@@ -7,7 +7,9 @@ layout: home
 
 **Senior Scientist, Precision Genomics**  
 *Genome Scientist | Bioinformatics Builder | Big Data Freak*
-
+- [LinkedIn](https://www.linkedin.com/in/barrymoore66/)
+- [GitHub](https://github.com/barrymoore)
+- Email: <a href="mailto:barry&#64;barrymoore.bio">barry&#64;barrymoore.bio</a>
 ---
 
 ## About Me
@@ -104,14 +106,6 @@ I am always curious about what’s next — in genetics, genomics and technology
 ## Patents
 
 US Patent Application No. US20230326547A1Systems and Methods for Prioritizing Genome Variants. Filed October 2023. Co-inventor. [https://patents.google.com/patent/US20230326547A1](https://patents.google.com/patent/US20230326547A1)
-
----
-
-## Contact & Links
-- [LinkedIn](https://www.linkedin.com/in/barrymoore66/)
-- [GitHub](https://github.com/barrymoore)
-- Email: <a href="mailto:barry&#64;barrymoore.bio">barry&#64;barrymoore.bio</a>
-
 
 ---
 
