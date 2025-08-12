@@ -70,7 +70,7 @@ I remain deeply curious about what’s next in genomics, AI, and technology, and
 
 **Senior Research Specialist**  
 *Department of Human Genetics, University of Utah | 1994 – 2006*
-* Self directed transition from molecular biology to genome informatics during the early genomic era.
+* Self-directed transition from molecular biology to genome informatics during the early genomic era.
 * Managed lab operations, trained junior researchers, and built early genome analysis tools.
 * Key member of multiple large-scale genomic research initiatives.
 * Instructor in numerous CSHL bioinformatics and NGS sequencing courses.
@@ -81,7 +81,7 @@ I remain deeply curious about what’s next in genomics, AI, and technology, and
 - **GEM AI (Fabric Genomics)** – Development and clinical integration of AI-assisted genome interpretation at Fabric Genomics
 - **NeoSeq** – Rapid genome sequencing for NICU diagnostics at University of Utah Health
 - **GeneKids** – Rare disease diagnostics initiative at Intermountain Health and University of Utah
-- **Children's Liver Disease Research Network** - A collaborative team of clincians and scientists supported by the NIH to study a broad range of childhood liver disease.
+- **Children's Liver Disease Research Network** - A collaborative team of clinicians and scientists supported by the NIH to study a broad range of childhood liver disease.
 - **Sequence Ontology** - The SO is a collaborative ontology project for the definition of sequence features used in biological sequence annotation.
 
 ---
@@ -103,16 +103,16 @@ I remain deeply curious about what’s next in genomics, AI, and technology, and
 ---
 
 ## Tools & Technologies
-* **Languages:** Python, Perl, JavaScript, SQL
+* **Languages:** Python, JavaScript, Perl, SQL
 * **Linux Admin & Power Tools:** Bash, screen/tmux, git, emacs, cron/at, find, parallel/xargs, sed/awk/CLI Perl, VisiData, jq, sqlite3, rclone/rsync
 * **Workflow Systems:** Nextflow, Snakemake, custom scripting
 * **Cloud/Infra:** AWS, Docker, Linux HPC clusters
 * **Bioinformatics Tools:** GATK, Sentieon, Dragen, samtools, bcftools, bedtools, htslib, vcfanno, GEM, VAAST, VVP, Phevor
-* **Data Analysis/Presentation:** iPython/Jupyter, numpy, Pandas, scipy, matplotlib/Seaborn/Plotly, custom dashboards & worksheets using JavaScript, DataTables, HTML/CSS, XlsxWriter, Markdown
+* **Data Analysis/Presentation:** IPython/Jupyter, numpy, Pandas, scipy, matplotlib/Seaborn/Plotly, custom dashboards & worksheets using JavaScript, DataTables, HTML/CSS, XlsxWriter, Markdown
 
 ## Patents
 
-US Patent Application No. US20230326547A1Systems and Methods for Prioritizing Genome Variants. Filed October 2023 by Fabric Genomics. Co-inventor. [https://patents.google.com/patent/US20230326547A1](https://patents.google.com/patent/US20230326547A1)
+US Patent Application No. US20230326547A1 Systems and Methods for Prioritizing Genome Variants. Filed October 2023 by Fabric Genomics. Co-inventor. [https://patents.google.com/patent/US20230326547A1](https://patents.google.com/patent/US20230326547A1)
 
 ---
 
@@ -123,4 +123,4 @@ US Patent Application No. US20230326547A1Systems and Methods for Prioritizing Ge
 ---
 
 **barrymoore.bio** — All views are my own. Thanks for visiting. <br>
-*Last updated: July 2025*
+*Last updated: August 2025*
