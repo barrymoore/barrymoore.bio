@@ -16,15 +16,13 @@ layout: default
 <img src="BarryLinkedIn.jpg" alt="Barry Moore headshot" width="150" style="float: right; margin: 0 0 1em 1em; border-radius: 8px;" />
 
 
-I’m a genome scientist, bioinformatics builder and big data evangelist with over 25 years of experience at the intersection of biology, computation, and clinical translation. My career began at the bench, decoding the complexities of translational recoding, and has evolved into a deep engagement with genome-scale data and rare disease diagnostics.
+I’m a senior scientist in genomics and bioinformatics, applying over two decades of experience to advance Fabric Genomics’ AI-powered genome interpretation platform. My focus is on building and refining clinical-grade workflows for rare disease diagnostics — combining technical craft with deep domain knowledge to deliver scalable solutions that boost diagnostic yield and get answers to patients faster.
 
-At the University of Utah, I’ve helped lead some of the institution’s most impactful genomic projects — from working on the development team for software tools like MAKER, VAAST, and VVP to shaping diagnostic workflows for programs like Heritage 1K, NeoSeq and GeneKids and many NGS based disease gene discovery projects in between that have spanned cohort, pedigree and singleton analysis styles and from rare Mendelian to common, complex disease prevelances. My work spans clinical genome diagnostics, NLP-base phenotype profiling, genome annotation, comparative genomics, ontology design, and consortia-scale genomic and data science workflows.
+Before joining Fabric Genomics full-time, I spent more than 25 years at the University of Utah at the intersection of biology, computation, and clinical translation. My work spanned the full arc of genomic research and diagnostics — from early bench science in translational recoding, to developing widely used tools like MAKER, VAAST, and VVP, to shaping workflows for major projects such as Heritage 1K, NeoSeq, and GeneKids. Along the way, I contributed to disease gene discovery efforts across a spectrum of rare Mendelian and common complex diseases, using approaches that ranged from cohort-scale genome analysis to detailed single-case studies.
 
-As a long-time consultant for Fabric Genomics, I’ve contributed to the design and optimization of their AI-driven genome interpretation engine, GEM. Over more than a decade, I’ve worked with Fabric to develop robust bioinformatics workflows, refine variant and disease gene prioritization strategies, and lead analysis efforts on high impact research collaborations related to diagnosis of rare disease.
+I’ve worked with Fabric Genomics for over a decade, leading analysis on high-impact research collaborations and helping refine variant and disease-gene prioritization strategies in GEM, Fabric’s AI-driven genome interpretation engine. Throughout my career, I’ve earned a reputation for cross-disciplinary fluency — bridging engineering, biology, and clinical care — and for delivering solutions that work when it matters most.
 
-Throughout my career, I’ve focused on long-term trust, collaboration with cross-disciplinary fluency, and delivering work that matters. I strive to be the person that teams call on when something needs to work — bridging biology, engineering, and clinical care.
-
-I am always curious about what’s next — in genetics, genomics and technology and how we turn advances in these fields into tools for impact.
+I’m deeply curious about what’s next in genomics, AI, and technology, and how advances in these fields can be transformed into tools that make a difference for patients, clinicians, and researchers alike.
 
 ---
 
