@@ -15,27 +15,26 @@ layout: default
 
 <img src="BarryLinkedIn.jpg" alt="Barry Moore headshot" width="150" style="float: right; margin: 0 0 1em 1em; border-radius: 8px;" />
 
+I am currently Senior Scientist, Precision Genomics at Fabric Genomics, where I develop clinical-grade workflows for rare disease diagnostics. I apply over two decades of genomics and bioinformatics experience to advance our AI-powered genome interpretation platform — combining technical craft with deep domain expertise to deliver scalable solutions that boost diagnostic yield and get answers to patients faster.
 
-I’m a senior scientist in genomics and bioinformatics, applying over two decades of experience to advance Fabric Genomics’ AI-powered genome interpretation platform. My focus is on building and refining clinical-grade workflows for rare disease diagnostics — combining technical craft with deep domain knowledge to deliver scalable solutions that boost diagnostic yield and get answers to patients faster.
+Before joining Fabric full-time, I spent more than 25 years at the University of Utah at the intersection of biology, computation, and clinical translation. My work spanned the full arc of genomic research and diagnostics — from early bench science in translational recoding, to developing widely used tools like MAKER, VAAST, and VVP, to shaping workflows for major projects such as Heritage 1K, NeoSeq, and GeneKids. Along the way, I contributed to disease gene discovery efforts across a spectrum of rare Mendelian and common complex diseases, using approaches that ranged from cohort-scale genome analysis to detailed single-case studies.
 
-Before joining Fabric Genomics full-time, I spent more than 25 years at the University of Utah at the intersection of biology, computation, and clinical translation. My work spanned the full arc of genomic research and diagnostics — from early bench science in translational recoding, to developing widely used tools like MAKER, VAAST, and VVP, to shaping workflows for major projects such as Heritage 1K, NeoSeq, and GeneKids. Along the way, I contributed to disease gene discovery efforts across a spectrum of rare Mendelian and common complex diseases, using approaches that ranged from cohort-scale genome analysis to detailed single-case studies.
+As a long-time consultant with Fabric, I led analysis on high-impact research collaborations and refined variant and disease-gene prioritization strategies in GEM, our AI-driven genome interpretation engine. Throughout my career, I’ve built a reputation for cross-disciplinary fluency — communicating and contributing across engineering, biology, and clinical care domains — and for delivering solutions that work when it matters most.
 
-I’ve worked with Fabric Genomics for over a decade, leading analysis on high-impact research collaborations and helping refine variant and disease-gene prioritization strategies in GEM, Fabric’s AI-driven genome interpretation engine. Throughout my career, I’ve earned a reputation for cross-disciplinary fluency — bridging engineering, biology, and clinical care — and for delivering solutions that work when it matters most.
-
-I’m deeply curious about what’s next in genomics, AI, and technology, and how advances in these fields can be transformed into tools that make a difference for patients, clinicians, and researchers alike.
+I remain deeply curious about what’s next in genomics, AI, and technology, and how advances in these fields can be transformed into tools that make a meaningful difference for patients, clinicians, and researchers alike.
 
 ---
 
 ## Areas of Expertise
-* Clinical Genomics & Rare Disease Diagnostics
-* NGS Processing Pipeline Development (WGS, RNASeq)
-* Genomics Software Engineering (Python, Perl)
-* Development of and Analysis with Disease Gene/Variant Prioritization and Genome Annotation Tools (VAAST, VVP, GEM, MAKER)
-* HIPPA/PHI Training
-* NLP Based Electronic Health Record Phenotype Profiling
-* HPC/Cloud Scale Workflow Automation & Big Data Integration
-* Interdisciplinary Team Leadership & Trainee Mentorship
-* Extensive Scientific Communication & Technical Training Experience
+
+* **End-to-End Genomic Workflow Development** – design, optimization, and automation of NGS data processing pipelines (WGS, RNASeq) on HPC and cloud infrastructure for clinical and research use.
+* **AI-Driven Genome Interpretation** – development, refinement, and deployment of variant and gene prioritization strategies using tools such as GEM, VAAST, VVP, and Phevor.
+* **Clinical Data Privacy & Security** – safeguarding genomic and health data in compliance with HIPAA and global privacy regulations; experience with PHI handling in regulated environments.
+* **NGS Secondary Analysis & Variant Calling** – expertise with GATK, Sentieon, Dragen, and related toolchains for high-throughput, reproducible NGS workflows.
+* **Phenotype Data Integration** – NLP-based extraction, HPO-driven phenotype matching, and integration into genome interpretation workflows.
+* **Scalable Infrastructure & Workflow Automation** – leveraging AWS, Docker, and workflow engines (Nextflow, Snakemake) to support reproducible, high-performance genomics pipelines.
+* **Cross-Disciplinary Team Leadership** – effective collaboration across engineering, scientific, and clinical teams; mentoring of analysts, clinicians, postdocs, and graduate students.
+* **Scientific Communication & Technical Training** – delivering presentations, workshops, and written materials for audiences ranging from technical specialists to executive leadership.
 
 ---
 
@@ -47,6 +46,13 @@ I’m deeply curious about what’s next in genomics, AI, and technology, and ho
 * Applying 25+ years of genomics experience to strengthen Fabric’s AI-powered genome interpretation platform, GEM.
 * Working across engineering, clinical, and scientific teams to deliver scalable solutions that improve diagnostic yield and accelerate time to answer.
 * Driving innovations in variant and disease-gene prioritization strategies, with a focus on clinical deployment and impact.
+
+**Senior Consultant**  
+*Fabric Genomics (formerly Omicia) | 2009 – 2025*
+* Long-term contributor to the GEM AI platform and full gene/variant prioritization stack.
+* Built and curated all major training datasets for VAAST/VVP/Phevor/GEM.
+* Supported collaborations with Genomics England, Rady Children’s, GeneDx, ONT and other Fabric partners.
+* Built NGS secondary (variant calling) frameworks for Fabric and key customers based on GATK, Sentieon and Dragen.
 
 **Director of Research and Science**  
 *Utah Center for Genetic Discovery, University of Utah | 2014 – Present*
@@ -69,18 +75,11 @@ I’m deeply curious about what’s next in genomics, AI, and technology, and ho
 * Key member of multiple large-scale genomic research initiatives.
 * Instructor in numerous CSHL bioinformatics and NGS sequencing courses.
 
-**Senior Consultant**  
-*Fabric Genomics (formerly Omicia) | 2009 – Present*
-* Long-term contributor to the GEM AI platform and full gene/variant prioritization stack.
-* Built and curated all major training datasets for VAAST/VVP/Phevor/GEM.
-* Supported collaborations with Genomics England, Rady Children’s, GeneDx, ONT and other Fabric partners.
-* Built NGS secondary (variant calling) frameworks for Fabric and key customers based on GATK, Sentieon and Dragen.
-
 ---
 
 ## Selected Projects
+- **GEM AI (Fabric Genomics)** – Development and clinical integration of AI-assisted genome interpretation at Fabric Genomics
 - **NeoSeq** – Rapid genome sequencing for NICU diagnostics at University of Utah Health
-- **GEM AI** – Development and clinical integration of AI-assisted genome interpretation at Fabric Genomics
 - **GeneKids** – Rare disease diagnostics initiative at Intermountain Health and University of Utah
 - **Children's Liver Disease Research Network** - A collaborative team of clincians and scientists supported by the NIH to study a broad range of childhood liver disease.
 - **Sequence Ontology** - The SO is a collaborative ontology project for the definition of sequence features used in biological sequence annotation.
@@ -88,23 +87,23 @@ I’m deeply curious about what’s next in genomics, AI, and technology, and ho
 ---
 
 ## Selected Publications
-* Reese et al., *Genome Biology*, 2010: Standard Variation File Format
-* Yandell et al., *PLoS Comp Biol*, 2008: Disease Alleles in Paralogous Proteins
-* Eilbeck et al., *BMC Bioinformatics*, 2009: Quantitative Measures for Genome Annotation
-* Moore et al., *Genet Med*, 2011: Variation in 10 Healthy Genomes and Diagnostic Implications
-* Hu et al., *Genet Epidemiol*, 2013: VAAST 2.0 Variant Classification
-* Flygare et al., *BMC Bioinformatics*, 2018: VAAST Variant Prioritizer (VVP)
-* De La Vega et al., *Genome Med*, 2021: AI-Enabled Genome Interpretation
-* Moore et al., *Genet Med Open*, 2023: RNASeq Resolves NEB Variant in Nemaline Myopathy
 * Jenkins et al., *NPJ Genom Med*, 2025: Utah NeoSeq Program in NICU Genomic Diagnostics
+* Moore et al., *Genet Med Open*, 2023: RNASeq Resolves NEB Variant in Nemaline Myopathy
+* De La Vega et al., *Genome Med*, 2021: AI-Enabled Genome Interpretation
+* Flygare et al., *BMC Bioinformatics*, 2018: VAAST Variant Prioritizer (VVP)
+* Hu et al., *Genet Epidemiol*, 2013: VAAST 2.0 Variant Classification
+* Moore et al., *Genet Med*, 2011: Variation in 10 Healthy Genomes and Diagnostic Implications
+* Reese et al., *Genome Biology*, 2010: Standard Variation File Format
+* Eilbeck et al., *BMC Bioinformatics*, 2009: Quantitative Measures for Genome Annotation
+* Yandell et al., *PLoS Comp Biol*, 2008: Disease Alleles in Paralogous Proteins
 
-*Full list of 76 publications available on request or Google Scholar - [https://bit.ly/3IKbfLV](https://bit.ly/3IKbfLV)* <br>
+*Full list of publications available on request or Google Scholar - [https://bit.ly/3IKbfLV](https://bit.ly/3IKbfLV)* <br>
 *Citation metrics (Google Scholar, July 2025): h-index = 31, i10-index = 41, total citations = 6,522*
 
 ---
 
 ## Tools & Technologies
-* **Languages:** Perl, Python, JavaScript, SQL
+* **Languages:** Python, Perl, JavaScript, SQL
 * **Linux Admin & Power Tools:** Bash, screen/tmux, git, emacs, cron/at, find, parallel/xargs, sed/awk/CLI Perl, VisiData, jq, sqlite3, rclone/rsync
 * **Workflow Systems:** Nextflow, Snakemake, custom scripting
 * **Cloud/Infra:** AWS, Docker, Linux HPC clusters
@@ -113,7 +112,7 @@ I’m deeply curious about what’s next in genomics, AI, and technology, and ho
 
 ## Patents
 
-US Patent Application No. US20230326547A1Systems and Methods for Prioritizing Genome Variants. Filed October 2023. Co-inventor. [https://patents.google.com/patent/US20230326547A1](https://patents.google.com/patent/US20230326547A1)
+US Patent Application No. US20230326547A1Systems and Methods for Prioritizing Genome Variants. Filed October 2023 by Fabric Genomics. Co-inventor. [https://patents.google.com/patent/US20230326547A1](https://patents.google.com/patent/US20230326547A1)
 
 ---
 
