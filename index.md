@@ -41,6 +41,13 @@ I’m deeply curious about what’s next in genomics, AI, and technology, and ho
 
 ## Career Highlights
 
+**Senior Scientist, Precision Genomics**
+*Fabric Genomics | 2025 – Present*
+* Leading development and refinement of clinical-grade genomic interpretation workflows for rare disease diagnostics.
+* Applying 25+ years of genomics experience to strengthen Fabric’s AI-powered genome interpretation platform, GEM.
+* Working across engineering, clinical, and scientific teams to deliver scalable solutions that improve diagnostic yield and accelerate time to answer.
+* Driving innovations in variant and disease-gene prioritization strategies, with a focus on clinical deployment and impact.
+
 **Director of Research and Science**  
 *Utah Center for Genetic Discovery, University of Utah | 2014 – Present*
 * Leadership role in the analytical arm of NeoSeq and GeneKids projects focused on rapid whole genome interpretation for critically ill children.
