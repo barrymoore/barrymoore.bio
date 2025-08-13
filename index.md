@@ -118,7 +118,7 @@ US Patent Application No. US20230326547A1 Systems and Methods for Prioritizing G
 
 ## Download My Resume
 
-[Download a summary resume (PDF)](Barry_Moore_Resume_2025.pdf) - full-length CV is available on request.
+[Download a summary resume (PDF)](Barry_Moore_Resume_25-08-12.pdf) - full-length CV is available on request.
 
 ---
 
